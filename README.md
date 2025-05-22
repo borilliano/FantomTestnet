@@ -1,6 +1,4 @@
-Here’s a professional and clear `README.md` for your [FantomTestnet](https://github.com/borilliano/FantomTestnet) repository:
 
----
 
 # FantomTestnet
 
@@ -58,20 +56,5 @@ The script will launch a browser, navigate to the Chainlink Faucet, and attempt 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
-
----
-
-**Happy building on Fantom Testnet!**
-
----
-
-You can copy and paste this into your `README.md`. If you’d like to add more details or code samples, just let me know!
-
-Citations:
-[1] https://github.com/borilliano/FantomTestnet
-
----
 Answer from Perplexity: https://www.perplexity.ai/search/create-auto-faucet-bnb-chain-f-IC4pzmPZQiSfFrFcsoi4Rg?utm_source=copy_output
